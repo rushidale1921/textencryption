@@ -1,13 +1,11 @@
-# RSA Encryption and Decryption
+# AES,DES, and RSA Encryption and Decryption
 
-This project implements RSA encryption and decryption in Python. It allows users to encrypt a message using a generated public key and then decrypt it using the corresponding private key.
-
+This project implements AES,DES, and RSA encryption in Python. It allows users to encrypt a message using a generated public key.
 ## Features
 
 - Automatically generates RSA key pairs (public and private).
 - Encrypts user-input text using the public key.
-- Decrypts the encrypted text using the private key.
-- Outputs both the encrypted and decrypted text.
+- Outputs the encrypted text.
 
 ## Requirements
 
